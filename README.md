@@ -1,9 +1,9 @@
 
 <div align="center">
- 
-![giphy](ezgif-196b795ddb0892.gif)
 
-## <em> Just when the caterpillar thought the world was over, it became a butterfly. </em>
+<img src="6263376a84f850f6c77c6745ee4a45f4.jpg" alt="butterfly" width="300"/>
 
- <br/>
- </div>
+## <em> it's 1940s and you're listening to vintage jazz on a cozy rainy night </em>
+
+<br/>
+</div>
